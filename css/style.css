@@ -1,0 +1,41 @@
+.headline,.underheadline{
+    text-align: center;
+    color: white;
+}
+.header{
+    padding: 200px;
+    background-color: #2E1C2B;
+}
+.gh{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.github{
+    padding: 100px;
+    border: solid #2E1C2B 10px;
+    text-align: center
+}
+.contact,.legal{
+    float: left;
+    width: 33%;
+    padding: 50px;
+    position: relative;
+    left: 200px;
+    
+}
+.github,.legal,.header{
+    overflow: hidden;
+}
+.profilepicture{
+    border: solid 2px red;
+    border-radius: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.discord{
+    background-color: #2E1C2B;
+    padding: 60px;
+}
